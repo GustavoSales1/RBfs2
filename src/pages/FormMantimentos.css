@@ -1,0 +1,16 @@
+.formMantimentos {
+    background-color: #d8d6d6;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .formMantimentos h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    margin-top: 20px;
+  }
+  
